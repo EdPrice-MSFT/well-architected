@@ -28,9 +28,10 @@ To assess your workload using the tenets found in the [Microsoft Azure Well-Arch
 
 We recommend exploring the following videos to dive deeper into Azure cost optimization:
 
+<br>
+
 <!-- markdownlint-disable MD034 -->
 
-<br>
 > [!VIDEO https://docs.microsoft.com/en-us/shows/Azure-Enablement/Diving-deeper-into-Azure-cost-optimization-Part-1-Cost-Optimization-Ep-2-Well-Architected-series/player]
 <br>
 
